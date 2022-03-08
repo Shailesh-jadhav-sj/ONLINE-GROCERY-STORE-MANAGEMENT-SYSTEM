@@ -1,0 +1,2 @@
+# ONLINE-GROCERY-STORE-MANAGEMENT-SYSTEM
+The objective is to develop an ER diagram , Relational schema and Database for online grocery store where any grocery products can be bought from the comfort of home through the Internet. This system will be a mediator between distributors and customers.The system is divided into two parts :1)The data of distributors and branches handled by them and stock availability is collected.2)The products are displayed to customers according to the availability, and data related to their orders is stored.
